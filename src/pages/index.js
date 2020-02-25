@@ -1,3 +1,15 @@
-import React from "react"
+import React from "react";
+import { Link } from 'gatsby';
+import Layout from "../components/layout";
+import Head from "../components/head"
 
-export default () => <div>Hello world!</div>
+const IndexPage = () => (
+  <Layout>
+    <Head />
+    <h1>Ingus Mat Burleson</h1>
+    <h2>full stack developer, javascript enthusiast, occasional rocker and roller</h2>
+    <p><Link to='/contact'>Contact me</Link></p>
+  </Layout>
+)
+
+export default IndexPage;
