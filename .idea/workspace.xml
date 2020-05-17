@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="565b1e38-737f-45ef-901d-37d764b35e7b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/head.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/head.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="React Component" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bZblqnjd" />
+  </component>
+  <component name="ProjectId" id="1VwpcuwlUkYzEhP2Vfp6vN3Vty9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/posts" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/posts" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="565b1e38-737f-45ef-901d-37d764b35e7b" name="Default Changelist" comment="" />
+      <created>1578174094575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578174094575</updated>
+      <workItem from="1578174096063" duration="2162000" />
+      <workItem from="1578257711781" duration="9774000" />
+      <workItem from="1579375333714" duration="3996000" />
+      <workItem from="1581205895171" duration="5178000" />
+      <workItem from="1581780469043" duration="1408000" />
+      <workItem from="1581782255295" duration="92000" />
+      <workItem from="1581782361024" duration="3901000" />
+      <workItem from="1585438000303" duration="4000" />
+      <workItem from="1589752802289" duration="637000" />
+      <workItem from="1589753981648" duration="388000" />
+      <workItem from="1589754417322" duration="2175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589754323814">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="272" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.797@0.23.1440.797" timestamp="1589754323814" />
+    <state x="461" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582388343201">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="461" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.797@0.23.1440.797" timestamp="1582388343201" />
+    <state width="1145" height="204" key="GridCell.Tab.0.bottom" timestamp="1589754399298">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1145" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1589754399298" />
+    <state width="1145" height="204" key="GridCell.Tab.0.center" timestamp="1589754399297">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1145" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1589754399297" />
+    <state width="1145" height="204" key="GridCell.Tab.0.left" timestamp="1589754399296">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1145" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1589754399296" />
+    <state width="1145" height="204" key="GridCell.Tab.0.right" timestamp="1589754399297">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1145" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1589754399297" />
+    <state x="0" y="60" key="SettingsEditor" timestamp="1589753009047">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="0" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1589753009047" />
+    <state x="386" y="180" width="713" height="490" key="find.popup" timestamp="1581214923813">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="386" y="179" width="667" height="488" key="find.popup/0.23.1440.800@0.23.1440.800" timestamp="1581214128901" />
+    <state x="386" y="180" width="713" height="490" key="find.popup/0.23.1440.803@0.23.1440.803" timestamp="1581214923813" />
+    <state x="385" y="197" width="670" height="599" key="search.everywhere.popup" timestamp="1582421113574">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="197" width="670" height="599" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1582421113574" />
+    <state x="385" y="198" width="670" height="602" key="search.everywhere.popup/0.23.1440.800@0.23.1440.800" timestamp="1582388491205" />
+    <state x="385" y="198" width="670" height="604" key="search.everywhere.popup/0.23.1440.803@0.23.1440.803" timestamp="1581214927511" />
+  </component>
+</project>
