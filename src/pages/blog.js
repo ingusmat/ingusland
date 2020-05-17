@@ -1,8 +1,9 @@
 import React from 'react';
-import Layout from "../components/layout";
+import Layout from '../components/layout';
 import blogStyles from './blog.module.scss';
 
 import { useStaticQuery, graphql, Link } from 'gatsby';
+import Head from '../components/head';
 
 const BlogPage = () => {
   const data = useStaticQuery(graphql`
@@ -24,10 +25,9 @@ const BlogPage = () => {
     }
   `);
 
-  console.log(data)
-
   return (
     <Layout>
+      <Head title='Blog' />
       <h1>Blog</h1>
       <ul className={blogStyles.posts}>
         {data.allContentfulBlogPost.edges.map((post) => (

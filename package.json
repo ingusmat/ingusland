@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "env-cmd -f .env.development gatsby develop",
+    "develop": "env-cmd -f .env gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -16,7 +16,7 @@
   "dependencies": {
     "@contentful/rich-text-react-renderer": "^13.4.0",
     "gatsby": "^2.18.12",
-    "gatsby-plugin-react-helmet": "^3.1.22",
+    "gatsby-plugin-react-helmet": "^3.3.1",
     "gatsby-plugin-sass": "^2.1.26",
     "gatsby-plugin-sharp": "^2.4.5",
     "gatsby-remark-images": "3.0.10",
